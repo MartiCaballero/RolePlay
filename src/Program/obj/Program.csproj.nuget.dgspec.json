@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Carpet1\\PII_RoleplayGame_1_Start\\src\\Program\\Program.csproj": {}
+    "c:\\Carpet1\\RolePlay\\src\\Program\\Program.csproj": {}
   },
   "projects": {
-    "c:\\Carpet1\\PII_RoleplayGame_1_Start\\src\\Library\\Library.csproj": {
+    "c:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Carpet1\\PII_RoleplayGame_1_Start\\src\\Library\\Library.csproj",
+        "projectUniqueName": "c:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "c:\\Carpet1\\PII_RoleplayGame_1_Start\\src\\Library\\Library.csproj",
+        "projectPath": "c:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\59893\\.nuget\\packages\\",
-        "outputPath": "c:\\Carpet1\\PII_RoleplayGame_1_Start\\src\\Library\\obj\\",
+        "outputPath": "c:\\Carpet1\\RolePlay\\src\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\59893\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "c:\\Carpet1\\PII_RoleplayGame_1_Start\\src\\Program\\Program.csproj": {
+    "c:\\Carpet1\\RolePlay\\src\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Carpet1\\PII_RoleplayGame_1_Start\\src\\Program\\Program.csproj",
+        "projectUniqueName": "c:\\Carpet1\\RolePlay\\src\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "c:\\Carpet1\\PII_RoleplayGame_1_Start\\src\\Program\\Program.csproj",
+        "projectPath": "c:\\Carpet1\\RolePlay\\src\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\59893\\.nuget\\packages\\",
-        "outputPath": "c:\\Carpet1\\PII_RoleplayGame_1_Start\\src\\Program\\obj\\",
+        "outputPath": "c:\\Carpet1\\RolePlay\\src\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\59893\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Carpet1\\PII_RoleplayGame_1_Start\\src\\Library\\Library.csproj": {
-                "projectPath": "c:\\Carpet1\\PII_RoleplayGame_1_Start\\src\\Library\\Library.csproj"
+              "c:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj": {
+                "projectPath": "c:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj"
               }
             }
           }
