@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj": {}
+    "c:\\Users\\Georgina\\repos\\RolePlay\\src\\Library\\Library.csproj": {}
   },
   "projects": {
-    "c:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj": {
+    "c:\\Users\\Georgina\\repos\\RolePlay\\src\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj",
+        "projectUniqueName": "c:\\Users\\Georgina\\repos\\RolePlay\\src\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "c:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj",
-        "packagesPath": "C:\\Users\\59893\\.nuget\\packages\\",
-        "outputPath": "c:\\Carpet1\\RolePlay\\src\\Library\\obj\\",
+        "projectPath": "c:\\Users\\Georgina\\repos\\RolePlay\\src\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\Georgina\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Georgina\\repos\\RolePlay\\src\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\59893\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Georgina\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
