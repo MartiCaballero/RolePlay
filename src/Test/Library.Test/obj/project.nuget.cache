@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZQppxJrCYEpr1Pas7LPgk9MnAru2AN7WOtc3M5umunMhb9MY4+kUdw9TgDwajxJUXtQR1Y2z5hNO2y8qlVMtdw==",
+  "dgSpecHash": "mSicL9C2zyZ3sl52dDA0iUQ8/gSC0XagsNPtbFpFVsdvOKeQzboe2ra+89hv/6/YLuJBmys4ftvH1ZaAbSrA1g==",
   "success": true,
-  "projectFilePath": "c:\\Carpet1\\RolePlay\\src\\Test\\Library.Test\\Library.Test.csproj",
+  "projectFilePath": "C:\\Carpet1\\RolePlay\\src\\Test\\Library.Test\\Library.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\59893\\.nuget\\packages\\microsoft.codecoverage\\17.3.1\\microsoft.codecoverage.17.3.1.nupkg.sha512",
     "C:\\Users\\59893\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

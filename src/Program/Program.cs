@@ -9,24 +9,22 @@ namespace Program
         static void Main(string[] args)
         {
             //Creamos personaje 1:
-            Personaje mago1 = new Personaje ("Mago", "Voldemort", true);
+            Mago mago1 = new Mago ( "Voldemort", true);
             //Creamos personaje 2:
+            Elfo elfo1 = new Elfo ("Harrius");
 
-            //Items de personaje 1:
-            ConstructorItem bastonmagico = new ConstructorItem ("Bastón Mágico", 10, 0);
-            ConstructorItem tunica = new ConstructorItem ("Túnica", 5, 0);
+            Armaduras armadura1 = Armaduras.CrearArmaduraPlata();
+            EquiparItem.Equipar(mago1,armadura1);
+            Armaduras tunica = Armaduras.CrearTunica();
+            EquiparItem.Equipar(elfo1, tunica);
 
-            //Equipamos ítems: 
-            bastonmagico.EquiparItem(mago1);
-            tunica.EquiparItem(mago1);
-
-            //Batalla:
-           /* Batalla.CalcularResultadoBatalla(mago1, personaje2);
-            Batalla.Hechizo(mago1, personaje2, "Llamas Ardientes");
-            Batalla.CuraciónElfo(elfo, otropersonaje);
-            Batalla.CalcularResultadoBatalla(/dos personajes)*/
-
-
+            Armas bastonmagico = Armas.CrearBastonMagico();
+            EquiparItem.Equipar(mago1,bastonmagico);
+            mago1.Hechizo(elfo1, TipoHechizo.LlamasArdientes);
+            
+            Armas espada = Armas.CrearEspada();
+            EquiparItem.Equipar(elfo1, espada);
+            elfo1.Ataque(mago1);
         }
     }
 }

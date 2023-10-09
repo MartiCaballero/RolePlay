@@ -3899,11 +3899,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Carpet1\\RolePlay\\src\\Test\\Library.Test\\Library.Test.csproj",
+      "projectUniqueName": "C:\\Carpet1\\RolePlay\\src\\Test\\Library.Test\\Library.Test.csproj",
       "projectName": "Library.Test",
-      "projectPath": "c:\\Carpet1\\RolePlay\\src\\Test\\Library.Test\\Library.Test.csproj",
+      "projectPath": "C:\\Carpet1\\RolePlay\\src\\Test\\Library.Test\\Library.Test.csproj",
       "packagesPath": "C:\\Users\\59893\\.nuget\\packages\\",
-      "outputPath": "c:\\Carpet1\\RolePlay\\src\\Test\\Library.Test\\obj\\",
+      "outputPath": "C:\\Carpet1\\RolePlay\\src\\Test\\Library.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\59893\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3918,8 +3918,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj": {
-              "projectPath": "c:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj"
+            "C:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj": {
+              "projectPath": "C:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj"
             }
           }
         }
