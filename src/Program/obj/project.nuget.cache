@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "86lT1FhCiL00D2/ZKot1Bo5s5bAGCwTR1KOMJjtGpYf8/ZuIKMTEmW3QWVLABVxP6n0E+D6H8HpciYHS227DNg==",
   "success": true,
   "projectFilePath": "C:\\Carpet1\\RolePlay\\src\\Program\\Program.csproj",
+=======
+  "dgSpecHash": "fduvE7rS26zOOYTk6/SP0WiVZvwb8qgM52cPsyqXaAqIk+EKAKXNRXIEt1Pq+qYPgw45pKF2K9+MNQS4HRBIlA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Georgina\\repos\\RolePlay\\src\\Program\\Program.csproj",
+>>>>>>> 6f04d3e772be798158f4245b04497819df49c6b7
   "expectedPackageFiles": [],
   "logs": []
 }
