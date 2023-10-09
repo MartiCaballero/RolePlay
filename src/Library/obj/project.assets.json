@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Georgina\\.nuget\\packages\\": {}
+    "C:\\Users\\59893\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Georgina\\repos\\RolePlay\\src\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "c:\\Users\\Georgina\\repos\\RolePlay\\src\\Library\\Library.csproj",
-      "packagesPath": "C:\\Users\\Georgina\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Georgina\\repos\\RolePlay\\src\\Library\\obj\\",
+      "projectPath": "C:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj",
+      "packagesPath": "C:\\Users\\59893\\.nuget\\packages\\",
+      "outputPath": "C:\\Carpet1\\RolePlay\\src\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Georgina\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\59893\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -62,5 +62,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Carpet1\\RolePlay\\src\\Library\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

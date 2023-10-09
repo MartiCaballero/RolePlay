@@ -42,7 +42,12 @@ namespace JuegoDeRoles
 
         public void Curar (IPersonaje personaje)
         {
-            Console.WriteLine($"\n{NombrePersonaje} no puede lanzar hechizos ya que no es un mago.");
+            Console.WriteLine($"\n{NombrePersonaje} no puede curar ya que no es un elfo.");
+            //Incluimos un método vacío para cumplir con la interfaz ya que los enanos no pueden curar
+        }
+        public void Hechizo(IPersonaje objetivo, TipoHechizo hechizo)
+        {
+             Console.WriteLine($"\n{NombrePersonaje} no puede lanzar hechizos ya que no es un mago.");
             //Incluimos un método vacío para cumplir con la interfaz ya que los enanos no pueden lanzar hechizos
         }
     }

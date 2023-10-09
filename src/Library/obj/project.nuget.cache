@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "0MBcV9LJ/q1eJW2tC3uWOAnRMjdLA4LNWunxdK+Wli9sSjNOCcN69Y+7ow5KE8Upwf/a1irGg2WBQWiKUPeB7w==",
   "success": true,
   "projectFilePath": "C:\\Carpet1\\RolePlay\\src\\Library\\Library.csproj",
-=======
-  "dgSpecHash": "mD2RsKjTGo0IKXhX/BbvCzlFq//DUBzeV7TgV3It1SgkDfaK7XaKQabKv63WoYDWWP/CErWdg0qRZNZUGqjP6g==",
-  "success": true,
-  "projectFilePath": "c:\\Users\\Georgina\\repos\\RolePlay\\src\\Library\\Library.csproj",
->>>>>>> 6f04d3e772be798158f4245b04497819df49c6b7
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Carpet1\\RolePlay\\src\\Library\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
